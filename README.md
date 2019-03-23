@@ -1,6 +1,1 @@
-echo "# Koekjes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Wannoes/Koekjes.git
-git push -u origin master
+HALLO ALLEMAAL WAT FIJN DAT JE ZR BENT BEN JE VOOR HET EERST HIER OF BEN JE AL BEKEND
